@@ -1,0 +1,22 @@
+﻿body {
+}
+.poll-box
+{
+	background: #C3C4C7; padding: 10px; width: 250px;
+}
+.poll-question
+{
+	background: #000F00; color: White; border:solid 1px white; padding:5px;margin-bottom:10px;
+}
+.poll-total
+{
+	background:#FFFFFF; color:Black; border:solid 1px black; padding:5px; margin-bottom:10px;text-align:center; text-transform:uppercase;font-size:12px;
+}
+.poll-result
+{
+	font-size:12px; padding-left:4px; 
+}
+.poll-chart
+{
+	background: #555555; padding: 4px; height: 15px; overflow: hidden; vertical-align: middle;margin-bottom:10px;
+}

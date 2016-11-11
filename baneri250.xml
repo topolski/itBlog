@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/baneri250/banner-250x250.gif</ImageUrl>
+    <NavigateUrl>http://www.horse-ridinglessons.com</NavigateUrl>
+    <AlternateText>Horse riding lessons</AlternateText>
+    <Impressions>80</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/baneri250/PureNews250x250.gif</ImageUrl>
+    <NavigateUrl>http://purenews.bloggingtips.com</NavigateUrl>
+    <AlternateText>Pure News</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/baneri250/ad-250x250.gif</ImageUrl>
+    <NavigateUrl>http://www.offlineaffiliatearmy.com</NavigateUrl>
+    <AlternateText>Offline affiliate army</AlternateText>
+    <Impressions>70</Impressions>
+  </Ad>
+</Advertisements>

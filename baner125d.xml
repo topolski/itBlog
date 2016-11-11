@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/baneri125/allblogtools-125x125.gif</ImageUrl>
+    <NavigateUrl>http://www.allblogtools.com/</NavigateUrl>
+    <AlternateText>All blog tools</AlternateText>
+    <Impressions>80</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/baneri125/banner-125x125.gif</ImageUrl>
+    <NavigateUrl>http://wondertwinadventures.blogspot.com/</NavigateUrl>
+    <AlternateText>Wonder twin adventures</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/baneri125/banner_125x125.gif</ImageUrl>
+    <NavigateUrl>http://www.twixplode.com/affiliate.php</NavigateUrl>
+    <AlternateText>Twixplode</AlternateText>
+    <Impressions>70</Impressions>
+  </Ad>
+</Advertisements>
