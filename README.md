@@ -1,2 +1,2 @@
 # itBlog
-itBlog created in ASP.NET
+itBlog created in ASP.NET (August 2013)
